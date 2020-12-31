@@ -30,21 +30,21 @@ a {
 
 @font-face {
   font-family: "RobotoMono-Regular";
-  src: url("/fonts/RobotoMono/RobotoMono-Regular.ttf");
+  src: url("imagine/fonts/RobotoMono/RobotoMono-Regular.ttf");
   font-size: 1.6vh;
   unicode-range: U+0000-07FF;
   font-display: block; }
 
 @font-face {
   font-family: "MunkenSansWeb-Regular";
-  src: url("/fonts/MunkenSans/MunkenSansWeb-Regular.woff");
+  src: url("imagine/fonts/MunkenSans/MunkenSansWeb-Regular.woff");
   font-size: 1.6vh;
   unicode-range: U+0000-07FF;
   font-display: block; }
 
 @font-face {
   font-family: "MunkenSansWeb-Bold";
-  src: url("/fonts/MunkenSans/MunkenSansWeb-Bold.woff");
+  src: url("imagine/fonts/MunkenSans/MunkenSansWeb-Bold.woff");
   font-size: 1.6vh;
   unicode-range: U+0000-07FF;
   font-display: block; }
